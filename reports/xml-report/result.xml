@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="0" package="D:\IntelliJ Projects\AmazonShopping_Mobile_Automation\specs\AmazonShopping_001.spec" time="43.260" timestamp="2022-04-23T20:49:16" name="AmazonShopping_001" errors="0" hostname="DESKTOP-EPI9NIM">
+		<properties></properties>
+		<testcase classname="AmazonShopping_001" name="Launch the app and search for a product" time="32.624"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>
